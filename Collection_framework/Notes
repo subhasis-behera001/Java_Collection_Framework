@@ -1,0 +1,21 @@
+// JAVA COLLECTION FRAMEWORK===
+->Before the introduction of the collection 
+  framework in JDK 1.2 java used to rely on
+  varity of classes like Vector,stact,Hashtable
+  and arrays to store and manipulation 
+  groups of objects.
+
+java collections->
+ Java collections is a container the can hold multiple items
+ in a single storage unit.
+ ->Collections are dynamic in nature(means it does not have any fixed size.).
+ ->Java collection provides an architecture to store and
+   manipulate the multiple objects. 
+ ->Java collections provide built in methods to perform
+    operations such as insertion,deletion, or 
+    manipulation.
+
+JAVA COLLECTION FRAMEWORK->
+->A collection framework is a set of classes and
+    interfaces which provides an architecture to develop 
+    New features.
